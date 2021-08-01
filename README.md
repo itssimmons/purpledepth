@@ -10,17 +10,17 @@ Seriouslly idk, but it is for "Pink" & Pur"ple"
 
 *Screenshot to a JS file, Im using tree-sitter btw*
 <center>
-  <img  src="" alt="JS FILE">
+  <img  src="https://github.com/sssimxn/pinkple/blob/main/jspreview.png" alt="JS FILE">
 </center>
 
 *Screenshot to the statusline (lightine)*
 <center>
-  <img  src="" alt="STATUSLINE">
+  <img  src="https://github.com/sssimxn/pinkple/blob/main/statuspreview.png" alt="STATUSLINE">
 </center>
 
 *Screenshot to the tabline (lightline)*
 <center>
-  <img  src="" alt="TABLINE">
+  <img  src="https://github.com/sssimxn/pinkple/blob/main/tabpreview.png" alt="TABLINE">
 </center>
 
 ## Plugins
