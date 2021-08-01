@@ -8,7 +8,7 @@ Seriouslly idk, but it is for "Pink" & Pur"ple"
 
 ## Preview
 
-*Screenshot to a JS file, Im using tree-sitter btw*
+*Screenshot to a JS file, Im using [tree-sitter](https://github.com/nvim-treesitter/nvim-treesitter) btw*
 <center>
   <img  src="https://github.com/sssimxn/pinkple/blob/main/jspreview.png" alt="JS FILE">
 </center>
@@ -47,4 +47,4 @@ Also add this into ur vimrc/init.vim:
 ### Extra
 
 - [pull requests](https://github.com/sssimxn/pinkple/pulls) are welcome ;)
- - *I used this theme for start mine* [lucid](https://github.com/cseelus/vim-colors-lucid)
+ - *I used this theme for start mine* https://github.com/cseelus/vim-colors-lucid
