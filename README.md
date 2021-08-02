@@ -30,18 +30,17 @@ To put it on lightline: `let:g lightline = { 'colorscheme': 'pinkple' }`
 
 ## Install
 
-With vim-plug, add this into ur plug calls
-`Plug 'sssimxn/pinkple'` then `:PlugInstall`
+With vim-plug, add this into ur plug calls `Plug 'sssimxn/pinkple'` then `:PlugInstall`
 
-Also add this into ur vimrc/init.vim:
+**Also u need to add this into ur vimrc/init.vim file:**
 ```viml
-    if exists('+termguicolors')
-      let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
-      let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
-      set termguicolors
-    endif
+if exists('+termguicolors')
+  let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
+  let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
+  set termguicolors
+endif
 
-   colorscheme pinkple
+colorscheme pinkple
 ```
 
 ### Extra
