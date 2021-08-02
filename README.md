@@ -25,8 +25,7 @@ Seriouslly idk, but it is for "Pink" & Pur"ple"
 
 ## Plugins
 
-- [lightline](https://github.com/itchyny/lightline.vim)
-To put it on lightline: `let:g lightline = { 'colorscheme': 'pinkple' }`
+- To put it on [lightline](https://github.com/itchyny/lightline.vim): `let:g lightline = { 'colorscheme': 'pinkple' }`
 
 ## Install
 
