@@ -1,35 +1,16 @@
-# PINKPLE 💗💜
+# Puple Depth 💜
 [![](https://img.shields.io/badge/Made%20With-nvim%20%E2%9D%A4-red?style=for-the-badge)](https://github.com/neovim/neovim)
 [![](https://img.shields.io/badge/Folder%20Size-84.1%20KB-yellow?style=for-the-badge)]()
 
-## Why PinkPle?
+## Why purpledepth?
 
-Seriouslly idk, but it is for "Pink" & Pur"ple"
+Honestly idk, but it is an entirely purple schema, well... not fully but it has purple 🤠
 
-## Preview
+**Enjoy it**
 
-*Screenshot to a JS file, Im using [tree-sitter](https://github.com/nvim-treesitter/nvim-treesitter) btw*
-<center>
-  <img  src="https://github.com/sssimxn/pinkple/blob/main/jspreview.png" alt="JS FILE">
-</center>
+## Get Started
 
-*Screenshot to the statusline (lightine)*
-<center>
-  <img  src="https://github.com/sssimxn/pinkple/blob/main/statuspreview.png" alt="STATUSLINE">
-</center>
-
-*Screenshot to the tabline (lightline)*
-<center>
-  <img  src="https://github.com/sssimxn/pinkple/blob/main/tabpreview.png" alt="TABLINE">
-</center>
-
-## Plugins
-
-- To put it on [lightline](https://github.com/itchyny/lightline.vim): `let g:lightline = { 'colorscheme': 'pinkple' }`
-
-## Install
-
-With vim-plug, add this into ur plug calls `Plug 'sssimxn/pinkple'` then `:PlugInstall`
+With vim-plug, add this into ur plug calls `Plug 'simmxns/purpledepth'` then `:PlugInstall`
 
 **Also u need to add this into ur vimrc/init.vim file:**
 ```viml
@@ -39,10 +20,22 @@ if exists('+termguicolors')
   set termguicolors
 endif
 
-colorscheme pinkple
+colorscheme purpledepth
 ```
 
-### Extra
+
+## Preview
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/62354548/169699232-d3a805de-245e-49af-9fb8-33054906ce9b.png" />
+  <i>Screenshot to the statusline (lightine)</i>
+</div>
+
+
+## Plugins
+
+- To put it on [lightline](https://github.com/itchyny/lightline.vim): `let g:lightline = { 'colorscheme': 'purpledepth' }`
+
+## Contributing
 
 - [pull requests](https://github.com/sssimxn/pinkple/pulls) are welcome ;)
- - *I used this theme for start mine* https://github.com/cseelus/vim-colors-lucid
