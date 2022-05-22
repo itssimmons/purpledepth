@@ -1,10 +1,3 @@
-" =============================================================================
-" Filename: ./autoload/lightline/pinkple.vim
-" License: MIT License
-" Author: @sssimxn
-" Last Change: 2021/08/01 14:50:59
-" =============================================================================
-
 let s:rock = [ '#181320', 233 ]
 let s:white = [ '#f8f8f2', 234 ]
 let s:sky = [ '#48ff9f', 118 ]
@@ -33,4 +26,4 @@ let s:p.tabline.middle = [ [ s:pink, s:rock] ]
 let s:p.tabline.right = copy(s:p.normal.right)
 let s:p.tabline.tabsel = [ [ s:rock, s:pink ] ]
 
-let g:lightline#colorscheme#pinkple#palette = lightline#colorscheme#flatten(s:p)
+let g:lightline#colorscheme#purpledepth#palette = lightline#colorscheme#flatten(s:p)
