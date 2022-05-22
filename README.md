@@ -23,7 +23,6 @@ endif
 colorscheme purpledepth
 ```
 
-
 ## Preview
 
 <div align="center">
@@ -31,11 +30,10 @@ colorscheme purpledepth
   <i>Screenshot to the statusline (lightine)</i>
 </div>
 
-
 ## Plugins
 
 - To put it on [lightline](https://github.com/itchyny/lightline.vim): `let g:lightline = { 'colorscheme': 'purpledepth' }`
 
 ## Contributing
 
-- [pull requests](https://github.com/sssimxn/pinkple/pulls) are welcome ;)
+- [Pull requests](https://github.com/simmxns/purpledepth/pulls) are welcome!
