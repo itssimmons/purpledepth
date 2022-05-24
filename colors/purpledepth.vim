@@ -464,3 +464,4 @@ function! GlobalStatusline()
 					return &shiftwidth
 			endif
 	endfunction
+endfunction
